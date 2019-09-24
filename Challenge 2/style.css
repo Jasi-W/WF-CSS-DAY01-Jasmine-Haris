@@ -3,7 +3,13 @@ html {
   font-size: 12px;
 }
 
+#title1 {
+	color: grey;
+}
 
+figcaption {
+	color: white;
+}
 
 #steve-jobs-quote {
   max-width: 400px;
