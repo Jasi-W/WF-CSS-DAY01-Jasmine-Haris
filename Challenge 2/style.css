@@ -20,11 +20,14 @@ img {
 /* ----- HTML ----- */
 html {
   font-size: 12px;
+  color: grey;
 }
 
-#title1 {
-	color: grey;
+body{
+	background-color: #333;
 }
+
+
 
 figcaption {
 	color: white;
