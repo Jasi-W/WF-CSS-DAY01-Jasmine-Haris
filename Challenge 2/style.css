@@ -1,1 +1,26 @@
-/*Style*/
+/* ----- HTML ----- */
+html {
+  font-size: 12px;
+}
+
+
+
+#steve-jobs-quote {
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#second-div-image {
+  order: 2;
+  flex-grow: 1;
+  min-width: 35%;
+  align-self: flex-end;
+  max-width: 300px;
+}
+
+img {
+  max-width: 70%;
+  box-sizing: border-box;
+  float: middle;
+}
