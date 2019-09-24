@@ -1,33 +1,23 @@
-<<<<<<< HEAD
-/*Style*/
-
-/* */
-* { border: 1px dashed red; }
-
-
 
 * {
 	box-sizing: border-box;
 	margin: 0;
 }
 
-
 img {
 	float: rigth;
 	width: 80%;
-	border: 2px solid gray;
-=======
-/* ----- HTML ----- */
+}
+
 html {
   font-size: 12px;
   color: grey;
 }
 
 body{
+	
 	background-color: #333;
 }
-
-
 
 figcaption {
 	color: white;
