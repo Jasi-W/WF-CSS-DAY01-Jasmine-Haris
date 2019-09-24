@@ -1,7 +1,12 @@
 .topnav {
   background-color: #2f3438;
   overflow: hidden;
+  float: middle;
+  list-style-type: none;
+  text-align: center;
+
 }
+
 
 /* Style the links inside the navigation bar */
 .topnav a {
