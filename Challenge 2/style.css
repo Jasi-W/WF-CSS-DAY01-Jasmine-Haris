@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*Style*/
 
 /* */
@@ -15,4 +16,37 @@ img {
 	float: rigth;
 	width: 80%;
 	border: 2px solid gray;
+=======
+/* ----- HTML ----- */
+html {
+  font-size: 12px;
+}
+
+#title1 {
+	color: grey;
+}
+
+figcaption {
+	color: white;
+}
+
+#steve-jobs-quote {
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#second-div-image {
+  order: 2;
+  flex-grow: 1;
+  min-width: 35%;
+  align-self: flex-end;
+  max-width: 300px;
+}
+
+img {
+  max-width: 70%;
+  box-sizing: border-box;
+  float: middle;
+>>>>>>> fea34cf135a9affe23260677085cd127715d5443
 }
