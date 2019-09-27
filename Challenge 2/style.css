@@ -1,8 +1,7 @@
 
-
-img {
-	float: rigth;
-	width: 80%;
+body{
+	
+	background-color: #333;
 }
 
 html {
@@ -10,10 +9,8 @@ html {
   color: grey;
 }
 
-body{
-	
-	background-color: #333;
-}
+
+
 
 figcaption {
 	color: white;
@@ -34,8 +31,5 @@ figcaption {
 }
 
 img {
-  max-width: 70%;
-  box-sizing: border-box;
-  float: middle;
->>>>>>> fea34cf135a9affe23260677085cd127715d5443
+  max-width: 80%;
 }
